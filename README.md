@@ -1,6 +1,6 @@
 ##  **Monday_Coffee_Project**                        
 
-[](https://github.com/anjali11091998/Monday-_Coffee_Project/blob/main/1.png)
+![ Monday Coffee](https://github.com/anjali11091998/Monday-_Coffee_Project/blob/main/1.png)
 
 #**Objective**
 
