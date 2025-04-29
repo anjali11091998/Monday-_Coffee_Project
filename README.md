@@ -1,12 +1,12 @@
-          # Monday-_Coffee_Project
+                           # Monday-_Coffee_Project
 
 
 
-         ** Key Questions**
+                             ** Key Questions**
 1. Coffee Consumers Count
 How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
- 2.Total Revenue from Coffee Sales
+2.Total Revenue from Coffee Sales
 What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 
 3. Sales Count for Each Product
@@ -52,6 +52,8 @@ These cities are contributing the most to your revenue and could be key location
 
 
 **  Underperforming Cities (Low ROI)**
+
+
 These cities generate low revenue relative to their rent and population size:
 
 Hyderabad and Mumbai – High population but poor return on rent investment.
@@ -60,12 +62,15 @@ Ahmedabad, Kolkata, and Lucknow – Lower total revenue and low customer value.
 
 📌 Recommendation:
 
+
 Re-evaluate marketing or product strategies in these regions.
 
 Consider scaling back investments unless growth potential is identified.
 
 
 ** Additional Strategic Ideas:**
+
+
 Increase Loyalty Efforts in Top Cities:
 
 Offer personalized rewards to top customers in Pune, Jaipur, and Chennai.
