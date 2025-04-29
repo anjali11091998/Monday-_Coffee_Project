@@ -1,4 +1,4 @@
-                       ##  **Monday_Coffee_Project**                        
+  #  **Monday_Coffee_Project**                        
 
 ![ Monday Coffee](https://github.com/anjali11091998/Monday-_Coffee_Project/blob/main/1.png)
 
